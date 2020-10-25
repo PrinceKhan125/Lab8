@@ -1,0 +1,22 @@
+Game idea
+	# I would like to create a battle royal game where the last team standing wins.
+
+Scenario and characters description (include placeholder graphics, drafts, references)
+	#Characters can be costumized male/female and you can purchase in person costumes (real currency) to look unique from others.
+
+Characters’ actions and goals
+	#The goal of each character is to kill all other enemy team members in order to be the last team surviving, in order to win.
+
+Game Win/Lose conditions
+	#Win (Kill all other participating teams) / Lose (All team members killed by another team)
+
+Progression of levels
+	#As you level up your character will gain XP which allows him to gain extraordinary powers
+
+Sources of inspiration (other games, movies, etc that inspired your idea)
+	#Fornite
+	#Pubg
+	#The Hunger Games
+
+What skills/interests you are looking for in team mate
+	#The best qualities I am looking for in a team mate is hard working and to not give up. Plus, when stuck he must ask help and to not be shy. What I am not looking for is someone that will abandon his teammates after many failed attempts.
